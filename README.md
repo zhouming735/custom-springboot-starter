@@ -6,5 +6,5 @@ my first custom springboot-starter
 自定义的starter  
 ## mestarterdemo  
 引用mestarter后的测试项目  
-
+本地访问地址： http://localhost:7000/+ api地址  
 
