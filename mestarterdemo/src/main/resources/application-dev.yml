@@ -1,0 +1,12 @@
+server:
+  port: 7000
+spring:
+  application:
+    name: mestarter-demo
+me:
+  msg: me-starter-demo 测试成功
+
+lomen:
+  service:
+    config: testmmm,1211212
+

@@ -1,0 +1,8 @@
+com\lomen\me\config\HelloServiceProperties.class
+com\lomen\me\MainApplication.class
+com\lomen\me\service\HelloService.class
+com\lomen\me\rest\HelloApi.class
+com\lomen\me\StarterAutoConfigure.class
+com\lomen\me\service\StarterService.class
+com\lomen\me\config\StarterServiceProperties.class
+META-INF\spring-configuration-metadata.json

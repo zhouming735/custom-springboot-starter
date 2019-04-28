@@ -1,0 +1,28 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.lomen.me.config.StarterServiceProperties",
+      "name": "lomen.service",
+      "type": "com.lomen.me.config.StarterServiceProperties"
+    },
+    {
+      "sourceType": "com.lomen.me.config.HelloServiceProperties",
+      "name": "me",
+      "type": "com.lomen.me.config.HelloServiceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.lomen.me.config.StarterServiceProperties",
+      "name": "lomen.service.config",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.lomen.me.config.HelloServiceProperties",
+      "defaultValue": "world",
+      "name": "me.msg",
+      "type": "java.lang.String"
+    }
+  ]
+}
