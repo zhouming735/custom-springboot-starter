@@ -1,8 +1,0 @@
-server:
-  port: 7000
-spring:
-  application:
-    name: me-starter-demo
-me:
-  msg: youtube
-debug: true
